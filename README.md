@@ -1,6 +1,6 @@
-# Friend or Foe? Primary Tumor represses distant metastases' growth via exosomal miRNA-1
+# Extracellular vesicle-mediated transfer of miRNA-1 from primary tumors represses the growth of distant metastases
 
-Hui-Su Kim<sup>1,2,3†</sup>, Kang-Hoon Lee<sup>1,2,3</sup>, Keun Hong Son<sup>1,2,3</sup>, Tae-Jin Shin<sup>1,2,3</sup>, and Je-Yoel Cho<sup>1,2,3*</sup>
+Chae-Yi Kim<sup>1,2,3†</sup>, Kang-Hoon Lee<sup>1,2,3</sup>, [Keun Hong Son](https://keun-hong.github.io/)<sup>1,2,3</sup>, Tae-Jin Shin<sup>1,2,3</sup>, and [**Je-Yoel Cho**](https://vetbio.snu.ac.kr/)<sup>1,2,3*</sup>
 
 <sup>1</sup> Department of Biochemistry, College of Veterinary Medicine, Seoul National University, Seoul, Korea<br>
 <sup>2</sup> Comparative Medicine and Disease Research Center (CDRC), Science Research Center (SRC), Seoul National University, Seoul, Korea<br>
@@ -10,8 +10,6 @@ Hui-Su Kim<sup>1,2,3†</sup>, Kang-Hoon Lee<sup>1,2,3</sup>, Keun Hong Son<sup>
 <sup>*</sup> Corresponding author: jeycho@snu.ac.kr
 
 ## Introduction
-&nbsp;Understanding metastasis is crucial in cancer research as well as in the clinic. Since Judah Folkman reported the metastases restricted by primary tumors via the secretion of angiostatin and endostatin, which inhibit angiogenesis on the metastatic sites, many researchers have sought to find novel tumor-derived proteins or non-coding RNAs that mediate communication between primary tumors and metastases. Recently, exosomes expressed from primary tumors have been proposed as essential communication tools for regulating metastasis, but their roles, particularly on distant metastases rather than cancer microenvironments, are still in vail. This study demonstrated how primary tumor-derived exosomes (pTDE) affect distant metastasis. First, we observed a remarkable suppression of metastatic cancer cells' growth in which received pTDE in both in vitro and in vivo spontaneous metastatic mouse models. In addition, we showed that the treatment of pTDE increased intracellular ROS and induced DNA double-stranded damage, which caused G2/M phase arrest and resulted in limiting the proliferation of recipient cells. We then identified that miR-1, which abundantly exists in the pTDE, causes a metastatic inhibition. Finally, we successfully presented the potential of pTDE as a treatment for metastatic cancer by showing that the miR-1 reinforcing pTDE significantly reduced the proliferation of metastatic cancer in mouse models. This study proves the distant control mechanism of metastatic cancer caused by primary tumors and further suggests the possibility of developing anti-cancer and metastases treatments.
+&nbsp;Metastases originate from primary tumors and reach distant organs. Growing evidence suggests that metastases are under the control of primary tumors even outside the primary site; however, the mechanisms by which primary tumors remotely control metastases remain unclear. Here, we discovered a molecular mechanism by which primary tumors suppress metastatic growth. Interestingly, we found that extracellular vesicles (EVs) derived from the primary tumor can inhibit the growth of metastases both in vitro and in vivo. miR-1 was particularly enriched in primary tumor-derived EVs (pTDEs) and was found to be responsible for the suppression of metastatic growth. Mechanistically, intracellular reactive oxygen species (ROS) production and DNA damage were induced, which led to cell cycle arrest. Collectively, our data demonstrate that primary tumors restrict the growth of distant metastases via miR-1 in pTDEs and that miR-1 could potentially be used as an antimetastatic agent.
 
-## Manuscript and Data availability
-Paper (bioRxiv): <br>
-Data repository: <br>
+**Manuscript**: [**Kim CY et al. Experimental & Molecular Medicine. 2024**](https://www.nature.com/articles/s12276-024-01181-7) <br>
