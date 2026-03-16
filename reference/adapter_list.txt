@@ -1,0 +1,13 @@
+# Adapter sequences for FastQC contaminant screening
+#
+# NEXTflex Small RNA-Seq Kit v3
+#   3' NEXTflex Adenylated Adapter: 5' rApp/NNNNTGGAATTCTCGGGTGCCAAGG/3'ddC
+#   5' NEXTflex Adapter:            5' GUUCAGAGUUCUACAGUCCGACGAUCNNNN
+#
+# Adapter fragments (12bp) for FastQC --contaminants option:
+
+Illumina Universal Adapter	AGATCGGAAGAG
+Illumina Small RNA 3' Adapter	TGGAATTCTCGG
+Illumina Small RNA 5' Adapter	GATCGTCGGACT
+Nextera Transposase Sequence	CTGTCTCTTATA
+SOLID Small RNA Adapter	CGCCTTGGCCGT
